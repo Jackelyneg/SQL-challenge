@@ -81,3 +81,6 @@ Once you have a complete database, do the following:
       from employees
       group by last_name
       order by count_last_name desc
+      
+## **Bonus Challenge**
+![Github](https://github.com/Jackelyneg/SQL-challenge/blob/main/Images/salary_bar.png)
