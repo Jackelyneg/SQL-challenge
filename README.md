@@ -83,4 +83,12 @@ Once you have a complete database, do the following:
       order by count_last_name desc
       
 ## **Bonus Challenge**
+
+- Create a histogram to visualize the most common salary ranges for employees.
+
+
+
+![Github](https://github.com/Jackelyneg/SQL-challenge/blob/main/Images/salary_hist.png)
+- Create a bar chart of average salary by title.
+
 ![Github](https://github.com/Jackelyneg/SQL-challenge/blob/main/Images/salary_bar.png)
