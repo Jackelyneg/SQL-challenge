@@ -9,7 +9,7 @@ Be sure to create tables in the correct order to handle foreign keys.
 
 
 
-![github](https://github.com/Jackelyneg/SQL-challenge/blob/main/ERD%20image.png)
+![Github](https://github.com/Jackelyneg/SQL-challenge/blob/main/Images/ERD%20image.png)
 
 
 Import each CSV file into the corresponding SQL table. Note be sure to import the data in the same order that the tables were created and account for the headers when importing to avoid errors.
@@ -81,3 +81,14 @@ Once you have a complete database, do the following:
       from employees
       group by last_name
       order by count_last_name desc
+      
+## **Bonus Challenge**
+
+- Create a histogram to visualize the most common salary ranges for employees.
+
+
+
+![Github](https://github.com/Jackelyneg/SQL-challenge/blob/main/Images/salary_hist.png)
+- Create a bar chart of average salary by title.
+
+![Github](https://github.com/Jackelyneg/SQL-challenge/blob/main/Images/salary_bar.png)
